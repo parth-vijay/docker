@@ -1,0 +1,15 @@
+Django==1.9.8
+argcomplete==1.8.2
+autopep8==1.2.4
+beautifulsoup4==4.5.3
+chardet==2.3.0
+click==6.7
+configparser==3.5.0
+Django==1.9.8
+django-appconf==1.0.1
+django-carton==1.2.1
+django-filer==1.2.5
+django-filter==1.0.0
+django-grappelli==2.9.1
+django-image-cropping==1.0.4
+django-mptt==0.8.6
